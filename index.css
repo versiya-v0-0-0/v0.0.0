@@ -8,3 +8,7 @@ body{margin:0;background:#fff}
 #oval{background:#D0EEFF;border-radius:0 0 30% 0;border-bottom:2px solid #297B9A}
 #oval-text{padding-left:24px;padding-bottom:8px;font-size:22px;font-weight:bold;color:#297B9A}
 #galereya{background:#DEEFFF;border:1px solid #297B9A;font-family:"Oswald"}
+
+#ddd {
+    text-align: center;
+}
