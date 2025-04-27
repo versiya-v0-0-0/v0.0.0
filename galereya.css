@@ -2,6 +2,4 @@ html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}
 body{margin:0;background:#fff}a{text-decoration:none}
 /* Mobil */
-#bahor {
-    
-}
+#bahor{text-align:center;background:#DEEFFF;border:1.5px solid #297B9A;font-family:"Oswald"}.w3-round-xxlarge{font-size:20px;font-weight:bold;background:#297B9A;color:#DEEFFF}
