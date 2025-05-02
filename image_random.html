@@ -31,7 +31,7 @@ body {
 }
 img {
   width: auto;
-  height: auto;
+  height: 128;
   object-fit: cover;
   border: 2px solid #cccccc;
   border-radius: 8px;
@@ -52,8 +52,8 @@ button:hover {
 
 <script>
 function getRandomImageUrl() {
-  const width = "auto";
-  const height = "auto";
+  const width = 128;
+  const height = 256;
   return `https://picsum.photos/${width}/${height}?random=${Math.random()}`;
 }
 
